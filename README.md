@@ -30,5 +30,5 @@ This application allows users to browse a list of companies and view their stock
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/react-stock-dashboard.git
-cd react-stock-dashboard
+git clone https://github.com/amirfaishal/jarnox.git
+cd jarnox
